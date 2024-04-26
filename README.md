@@ -40,3 +40,9 @@ E instale as dependências:
 ```
 pip install requirements.txt
 ```
+
+### executando 
+
+```
+streamlit run app.py
+```
